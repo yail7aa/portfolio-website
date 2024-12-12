@@ -21,7 +21,7 @@
 - `imgs/`: Содержит изображения и иллюстрации, используемые на сайте.
 
 ## Предварительный просмотр
-Посмотрите на живой сайт [здесь]([https://your-username.github.io/portfolio-website](https://yail7aa.github.io/portfolio-website/)).
+Посмотрите на живой сайт [здесь](https://yail7aa.github.io/portfolio-website/).
 
 ## Figma Design
 Дизайн этого сайта можно посмотреть на сайте [Figma](https://www.figma.com/design/RSOyaoOo0IIAYPm4OiSWTt/%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE?node-id=0-1&t=8CV2Zyw9UTCXVq6X-1).
